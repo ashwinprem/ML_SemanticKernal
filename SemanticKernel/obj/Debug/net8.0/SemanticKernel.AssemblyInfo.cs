@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1add70b2-0e32-4a79-aabd-cd3f5cd2cd56")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SemanticKernel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff4645a39a5f56ce9f4a4e1ef36cdc1f47a3c7e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7ed697348d7265b3c113cb5718bd2510afcd7f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SemanticKernel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SemanticKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
